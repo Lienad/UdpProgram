@@ -10,6 +10,7 @@ namespace UdpProgram
     {
         static void Main(string[] args)
         {
+            int x;
         }
     }
 }
